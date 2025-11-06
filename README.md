@@ -1,3 +1,7 @@
+<div id="banner">
+  <img src="">
+</div>
+
 <div id="intro"> 
   <h1 align="center"> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Andrea</h1>
   <h3 align="center" style="font-weight: normal; font-size: 1.2em; line-height: 1.5;">

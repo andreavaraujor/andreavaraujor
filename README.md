@@ -11,7 +11,7 @@
 </div>
 
 <div id="contact"> 
-  <h3>" 📫 How to reach me: "</h3>
+  <h3> 📫 How to reach me: </h3>
 </div>
 
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreavaraujor/)

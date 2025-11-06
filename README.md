@@ -1,5 +1,5 @@
 <div id="banner">
-  <img src="">
+  <img src="Andrea_Araujo_banner.png" width="800"/>
 </div>
 
 <div id="intro"> 

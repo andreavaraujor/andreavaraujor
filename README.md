@@ -12,7 +12,7 @@
 
 <div id="contact"> 
   <h3>" 📫 How to reach me: "</h3>
-  [![Discord](https://img.shields.io/badge/Discord-AndreaAraujo-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1362109086958878990)
+  [![](https://img.shields.io/badge/Discord-AndreaAraujo-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1362109086958878990)
 </div>
 
 <!--

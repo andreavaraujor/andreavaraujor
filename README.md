@@ -17,7 +17,14 @@
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreavaraujor/)
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1362109086958878990)
 
+### 📌 About Me
 
+- Technology enthusiast 💻  
+- Expanding my skills in data analysis 📊  
+- Every day is a joy for me to learn something new 🌱  
+- Additionally, I have experience with MATLAB, LabVIEW, Proteus, and MPLAB — tools from my technical background 🔧  
+
+🚧 My repository is still under construction — new projects coming soon!
 <!--
 **andreavaraujor/andreavaraujor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

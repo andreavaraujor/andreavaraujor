@@ -1,4 +1,4 @@
-<div id="banner">
+<div id="banner" align="center">
   <img src="Andrea_Araujo_banner.png" width="800"/>
 </div>
 

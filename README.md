@@ -12,8 +12,10 @@
 
 <div id="contact"> 
   <h3>" 📫 How to reach me: "</h3>
-  [![](https://img.shields.io/badge/Discord-AndreaAraujo-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1362109086958878990)
 </div>
+
+[![](https://img.shields.io/badge/Discord-AndreaAraujo-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1362109086958878990)
+
 
 <!--
 **andreavaraujor/andreavaraujor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
